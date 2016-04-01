@@ -1,0 +1,1151 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ancientwisdoms.ac.uk/mss/0> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/1> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/10> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/100> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "A proclamation, issued by Governor Macquarrie, appears " .
+
+<http://www.ancientwisdoms.ac.uk/mss/101> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "[Extracts of Letters from Quebec and Montreal.]" .
+
+<http://www.ancientwisdoms.ac.uk/mss/102> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "Quebec, Sept. 10. " .
+
+<http://www.ancientwisdoms.ac.uk/mss/103> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/104> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/105> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/106> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/107> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/108> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/109> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/11> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/110> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/111> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/112> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/113> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/114> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/115> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/116> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/117> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/118> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "Our paper of Thursday last contained a gene" .
+
+<http://www.ancientwisdoms.ac.uk/mss/119> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/12> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/120> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/121> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/122> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "In answer to the remarks which appeared in " .
+
+<http://www.ancientwisdoms.ac.uk/mss/123> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/124> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/125> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/126> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/127> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/128> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/129> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/13> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/130> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/131> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/132> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/133> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/134> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/135> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/136> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/137> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/138> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/139> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/14> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/140> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/141> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/142> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/143> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/144> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/145> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/146> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/147> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/148> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/149> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/15> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/150> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/151> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/152> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/153> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/154> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/155> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/156> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/157> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/158> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/159> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/16> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/160> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/161> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/162> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/163> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/164> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/165> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/166> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/167> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/168> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/169> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/17> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/170> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/171> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/172> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/173> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/174> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/175> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/176> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/177> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/178> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/179> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/18> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/180> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/181> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/182> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/183> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/184> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/185> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/186> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/187> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/188> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/189> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/19> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/190> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/191> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/192> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/193> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/194> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/195> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/196> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/197> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/198> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/199> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/2> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/20> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/200> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/201> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/202> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/203> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/204> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/205> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/206> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/207> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/208> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/209> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/21> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/210> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/211> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/212> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/213> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/214> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/215> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/216> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/217> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/218> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/219> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/22> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/220> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/221> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/222> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/223> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/224> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/225> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/226> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/227> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/228> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/229> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/23> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/230> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/231> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/232> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/233> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/234> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/235> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/236> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/237> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/238> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/239> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/24> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/240> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/241> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/242> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/243> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/244> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/245> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/246> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/247> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/248> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/249> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/25> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/250> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/251> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/252> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/253> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/254> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/255> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/256> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/257> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/258> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/259> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/26> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/260> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/261> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/262> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/263> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/264> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/265> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/266> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/267> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/268> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/269> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/27> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/270> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/271> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/272> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/273> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/274> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/275> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/276> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/277> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/278> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/279> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/28> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/280> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/281> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/282> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/283> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/284> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/285> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/286> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/287> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "We have received a copy of a Series of Resolu" .
+
+<http://www.ancientwisdoms.ac.uk/mss/288> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/289> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/29> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/290> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/291> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/292> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/293> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/294> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/295> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/296> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/297> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/298> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/299> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/3> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/30> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/300> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/301> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/302> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/303> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/304> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/305> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/306> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/307> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/308> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/309> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/31> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/310> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/311> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/312> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/313> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/314> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/315> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/316> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/317> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/318> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/319> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/32> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/320> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/321> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/322> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/323> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/324> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/325> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/326> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/327> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/328> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/329> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/33> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/330> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/331> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/332> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/333> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/334> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/335> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/336> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/337> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/338> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/339> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/34> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/340> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/341> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/342> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/343> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/344> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/345> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/346> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/347> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/348> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/349> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/35> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/350> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/351> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/352> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/353> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/354> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/355> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/356> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/357> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/358> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/359> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/36> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/360> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/361> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/362> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/363> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/364> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/365> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/366> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/367> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/368> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/369> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/37> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/370> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/371> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/372> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/373> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/374> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/375> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/376> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/377> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/378> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/379> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/38> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/380> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/381> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/39> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/4> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/40> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/41> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/42> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/43> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/44> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/45> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/46> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/47> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/48> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/49> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/5> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/50> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/51> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/52> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/53> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/54> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/55> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/56> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/57> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/58> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/59> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/6> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/60> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/61> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/62> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/63> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/64> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/65> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/66> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/67> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/68> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/69> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/7> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/70> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/71> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/72> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/73> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/74> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/75> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/76> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/77> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/78> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "QUEBEC, " .
+
+<http://www.ancientwisdoms.ac.uk/mss/79> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/8> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/80> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/81> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/82> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/83> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/84> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/85> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/86> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/87> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/88> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/89> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/9> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/90> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/91> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/92> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "Montreal, July 4" .
+
+<http://www.ancientwisdoms.ac.uk/mss/93> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/94> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/95> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/96> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "The Rota frigate arrived on Monday off Ply" .
+
+<http://www.ancientwisdoms.ac.uk/mss/97> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "None" .
+
+<http://www.ancientwisdoms.ac.uk/mss/98> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "By the Dunlop, Captain Abrams, arrived on Sun" .
+
+<http://www.ancientwisdoms.ac.uk/mss/99> a <http://purl.org/saws/ontology#LinguisticObject> ;
+    rdfs:label "The following letter received in town, gives a de" .
+
